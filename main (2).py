@@ -3,7 +3,7 @@ import os
 import openai
 import textwrap
 import time
-
+#Use your OpenAI API Key here
 openai.api_key = os.environ['openai.api_key']
 
 
